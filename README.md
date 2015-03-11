@@ -3,7 +3,7 @@ Angular Store<br>
 
 # angular-store
 
-This project is an application skeleton using [AngularJS](http://angularjs.org/) as part of a proof of concept using Node.js, Gulp and Express.  It has continous integration and deployment via Codeship, and Heroku.
+This project is an application skeleton using [AngularJS](http://angularjs.org/) as part of a proof of concept using [Node.js](http://nodejs.org/), [Gulp](http://gulpjs.com/) and [Express](http://expressjs.com/).  It has continous integration and deployment via [CodeShip](https://codeship.com/projects/67975) and [Heroku](http://heroku.com).
 
 ## Getting Started
 
