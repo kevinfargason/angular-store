@@ -64,10 +64,10 @@ gulp run
 
 Now browse to the app at `http://localhost:5000/`.
 
-## Directory Layout
+
 
 <!--- 
-
+## Directory Layout
 
 ## Testing
 
